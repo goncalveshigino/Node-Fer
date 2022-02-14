@@ -1,0 +1,16 @@
+{
+  "name": "carlosh_back-end",
+  "version": "1.0.0",
+  "description": "um chat como telegram,muito melhor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "telegran",
+    "server"
+  ],
+  "author": "Goncalves Higino",
+  "license": "MIT"
+}
