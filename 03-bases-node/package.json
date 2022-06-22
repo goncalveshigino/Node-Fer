@@ -1,0 +1,15 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "Uma simples tabela de multiplicar com archivo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Higino",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
